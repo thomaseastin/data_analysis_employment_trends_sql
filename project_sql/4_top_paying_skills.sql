@@ -26,25 +26,6 @@ ORDER BY
 LIMIT 25;
 
 /*
-Here are the three primary takeaways:
-
-Big Data and Cloud Skills Lead Salaries: Expertise in big data processing 
-tools like PySpark and Databricks, along with cloud platforms like GCP, 
-commands the highest salaries for data analysts. Mastery of these technologies 
-is critical for handling large-scale data operations.
-
-Versatility Across Tools is Highly Valued: Proficiency in a diverse set of 
-tools—ranging from version control (e.g., GitLab, Bitbucket) to data manipulation
-libraries (e.g., Pandas, Numpy) and workflow management (e.g., Airflow)—is crucial. 
-This versatility allows data analysts to integrate well with broader software 
-development and data engineering processes, leading to higher pay.
-
-Specialized Technologies in AI and Databases: Skills in specialized tools for 
-AI, automated machine learning (e.g., Watson, DataRobot), and both NoSQL and 
-relational databases (e.g., Couchbase, PostgreSQL) are also among the top-paying. 
-These skills highlight a strong demand for data analysts who can manage complex 
-data environments and deliver advanced analytics.
-
 -- JSON 4_top_paying_skills
 
 [
